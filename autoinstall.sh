@@ -15,7 +15,6 @@ show_menu() {
     echo "6. Uninstall Node"
     echo "7. Exit"
     echo "8. Update RPC Endpoint (default: https://evmrpc-testnet.0g.ai)"
-    echo -e "\033[1;36m==============================\033[0m"
     echo -e "\033[1;32m     (Don't be a clown, already too many of them)\033[0m"
 }
 
