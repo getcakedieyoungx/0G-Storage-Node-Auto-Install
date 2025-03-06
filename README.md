@@ -1,9 +1,11 @@
 # 0G-Storage-Node-Auto-Install
 
-Join tg, I will post bots there too.
-[Telegram](https://t.me/getcakedieyoungx)
 
 ![image](https://github.com/user-attachments/assets/94c502d2-7894-49a8-8099-bf39b1a23800)
+
+
+Join tg, I will post bots there too.
+[Telegram](https://t.me/getcakedieyoungx)
 
 
 ## Getting Started
@@ -26,6 +28,9 @@ Run auto install
 ```bash
 ./autoinstall.sh
 ```
+
+Join tg, I will post bots there too.
+[Telegram](https://t.me/getcakedieyoungx)
 
 ### For donations:
 EVM:
