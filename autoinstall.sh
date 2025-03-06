@@ -6,20 +6,17 @@ show_menu() {
     curl -s https://raw.githubusercontent.com/getcakedieyoungx/Assister-Bot/refs/heads/main/logo.sh | bash
 
     # Personalized greeting
-    echo -e "\033[1;36m==============================\033[0m"
-    echo -e "\033[1;35m 0G Storage Node Management Menu - Special Edition\033[0m"
-    echo -e "\033[1;36m==============================\033[0m"
     
     echo "1. Install 0G Storage Node"
     echo "2. Start Node"
     echo "3. Stop Node"
     echo "4. Check Node Status"
     echo "5. Check Logs"
-    echo "6. Uninstall 0G Storage Node"
+    echo "6. Uninstall Node"
     echo "7. Exit"
-    echo "8. Update RPC Endpoint (https://evmrpc-testnet.0g.ai)"
+    echo "8. Update RPC Endpoint (default: https://evmrpc-testnet.0g.ai)"
     echo -e "\033[1;36m==============================\033[0m"
-    echo -e "\033[1;32m     (Script by YourNameHere)\033[0m"
+    echo -e "\033[1;32m     (Don't be a clown, already too many of them)\033[0m"
 }
 
 # Function to install the 0G Storage Node
